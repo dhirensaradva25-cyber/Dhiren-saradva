@@ -1,0 +1,6 @@
+{
+  "name": "AI Caption Pro",
+  "description": "Generate engaging social media captions, hashtags, custom visuals with AI, and text-to-speech with premium Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
